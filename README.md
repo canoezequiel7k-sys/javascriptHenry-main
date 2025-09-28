@@ -4,7 +4,7 @@
 
 #### Introducción
 
-¡Hola! Bienvenido al Prep Course para la carrera de Desarrollo Web Full Stack
+¡Hola! Bienvenido al Prep Course para la carrera de Desarrollo Web Full Stack.
 
 En este curso introductorio podrás aprender todo el contenido que luego será evaluado en el Henry Challenge, el último paso para ingresar a la carrera de Desarrollo Web Full Stack en Henry.
 
@@ -39,7 +39,7 @@ Debes comenzar a ver todos los videos, el material escrito y a hacer los ejercic
 Cualquier duda, nos puedes escribir a admisiones@soyhenry.com
 ¡Muchos éxitos!
 
-## Clases de Apoyo
+## Clases de Apoyo!
 
 Para poder acompañarte en esta etapa, ponemos a disposición las “Clases de apoyo en vivo”. Estos son espacios donde los Henry Heros (HHs), es decir estudiantes avanzados de Henry, se ponen a disposición para despejar todas las dudas que puedas tener mientras estás estudiando el Prep Course.
 
