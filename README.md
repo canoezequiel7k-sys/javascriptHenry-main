@@ -2,7 +2,7 @@
 
 # Prep Course
 
-#### Introducción
+#### Introducción;
 
 ¡Hola! Bienvenido al Prep Course para la carrera de Desarrollo Web Full Stack.
 
